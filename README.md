@@ -1,2 +1,4 @@
 # Breakout-PCBs
-Breakout PCB's for components that are only available in the SMT style.
+Breakout PCB's for components that are only available in SMT styles.
+
+Eagle / and or Gerber files
